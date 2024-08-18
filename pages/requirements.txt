@@ -1,1 +1,9 @@
-
+pandas
+numpy
+seaborn
+mysql.connector
+holoviews
+warnings
+streamlit
+streamlit.components.v1
+altair
