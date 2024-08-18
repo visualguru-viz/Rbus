@@ -3,4 +3,4 @@ pandas
 mysql.connector
 numpy
 holoviews
-bokeh.plotting
+bokeh
