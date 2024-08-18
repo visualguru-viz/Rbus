@@ -3,5 +3,4 @@ pandas
 mysql.connector
 numpy
 holoviews
-streamlit.components.v1
 bokeh.plotting
