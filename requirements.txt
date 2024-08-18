@@ -2,7 +2,6 @@ streamlit
 pandas
 mysql.connector
 numpy
-warnings
 holoviews
 streamlit.components.v1
 bokeh.plotting
