@@ -4,5 +4,4 @@ seaborn
 mysql.connector
 holoviews
 streamlit
-streamlit.components.v1
 altair
